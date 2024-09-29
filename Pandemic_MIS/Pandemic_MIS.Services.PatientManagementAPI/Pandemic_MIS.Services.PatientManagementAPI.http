@@ -1,0 +1,6 @@
+@Pandemic_MIS.Services.PatientManagementAPI_HostAddress = http://localhost:5232
+
+GET {{Pandemic_MIS.Services.PatientManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VheGa1F4YgL4eQocjjOr3QZKBDf5wgv+m6F7CCb+BX4=",
+  "Source": "Pandemic_MIS.Services.PandemicVaccineManagementAPI",
+  "BasePath": "_content/Pandemic_MIS.Services.PandemicVaccineManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "la8Zjgd1K9y+NJlQ7YsFyKzrG4D7oBYXTuuA15ZFJHg=",
+  "Source": "Pandemic_MIS.Services.PatientManagementAPI",
+  "BasePath": "_content/Pandemic_MIS.Services.PatientManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

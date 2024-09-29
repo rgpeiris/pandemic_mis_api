@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CA3B2C63-9B53-42EA-BEB9-CDFA7D47207B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pandemic_MIS.Services.PandemicNewsAPI", "Pandemic_MIS.Services.PandemicNewsAPI\Pandemic_MIS.Services.PandemicNewsAPI.csproj", "{D11E0394-5704-453C-BDBE-CD3D7453C580}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pandemic_MIS.Services.OrganizationManagementAPI", "Pandemic_MIS.Services.OrganizationManagementAPI\Pandemic_MIS.Services.OrganizationManagementAPI.csproj", "{710B8CC2-39CE-480E-8905-C0FE80F0271A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pandemic_MIS.Services.AuthAPI", "Pandemic_MIS.Services.AuthAPI\Pandemic_MIS.Services.AuthAPI.csproj", "{0C30DB72-3A28-4761-948B-900A4D1AF006}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pandemic_MIS.Services.PandemicVaccineManagementAPI", "Pandemic_MIS.Services.PandemicVaccineManagementAPI\Pandemic_MIS.Services.PandemicVaccineManagementAPI.csproj", "{31F476FB-F2CB-41BD-A6D4-27E28002352E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pandemic_MIS.Services.PandemicTestsManagementAPI", "Pandemic_MIS.Services.PandemicTestsManagementAPI\Pandemic_MIS.Services.PandemicTestsManagementAPI.csproj", "{C392CDA7-30C4-4147-B8F2-EC9CD5B09E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pandemic_MIS.Services.PatientManagementAPI", "Pandemic_MIS.Services.PatientManagementAPI\Pandemic_MIS.Services.PatientManagementAPI.csproj", "{5021945B-D096-4894-A809-2F3BC74C5427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11E0394-5704-453C-BDBE-CD3D7453C580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11E0394-5704-453C-BDBE-CD3D7453C580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11E0394-5704-453C-BDBE-CD3D7453C580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11E0394-5704-453C-BDBE-CD3D7453C580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710B8CC2-39CE-480E-8905-C0FE80F0271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710B8CC2-39CE-480E-8905-C0FE80F0271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710B8CC2-39CE-480E-8905-C0FE80F0271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710B8CC2-39CE-480E-8905-C0FE80F0271A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C30DB72-3A28-4761-948B-900A4D1AF006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C30DB72-3A28-4761-948B-900A4D1AF006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C30DB72-3A28-4761-948B-900A4D1AF006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C30DB72-3A28-4761-948B-900A4D1AF006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F476FB-F2CB-41BD-A6D4-27E28002352E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F476FB-F2CB-41BD-A6D4-27E28002352E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F476FB-F2CB-41BD-A6D4-27E28002352E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F476FB-F2CB-41BD-A6D4-27E28002352E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C392CDA7-30C4-4147-B8F2-EC9CD5B09E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C392CDA7-30C4-4147-B8F2-EC9CD5B09E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C392CDA7-30C4-4147-B8F2-EC9CD5B09E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C392CDA7-30C4-4147-B8F2-EC9CD5B09E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5021945B-D096-4894-A809-2F3BC74C5427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5021945B-D096-4894-A809-2F3BC74C5427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5021945B-D096-4894-A809-2F3BC74C5427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5021945B-D096-4894-A809-2F3BC74C5427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D11E0394-5704-453C-BDBE-CD3D7453C580} = {CA3B2C63-9B53-42EA-BEB9-CDFA7D47207B}
+		{710B8CC2-39CE-480E-8905-C0FE80F0271A} = {CA3B2C63-9B53-42EA-BEB9-CDFA7D47207B}
+		{0C30DB72-3A28-4761-948B-900A4D1AF006} = {CA3B2C63-9B53-42EA-BEB9-CDFA7D47207B}
+		{31F476FB-F2CB-41BD-A6D4-27E28002352E} = {CA3B2C63-9B53-42EA-BEB9-CDFA7D47207B}
+		{C392CDA7-30C4-4147-B8F2-EC9CD5B09E46} = {CA3B2C63-9B53-42EA-BEB9-CDFA7D47207B}
+		{5021945B-D096-4894-A809-2F3BC74C5427} = {CA3B2C63-9B53-42EA-BEB9-CDFA7D47207B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B33BC7-5212-460C-918C-D3276FA0742F}
+	EndGlobalSection
+EndGlobal

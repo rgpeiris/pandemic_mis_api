@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AsqBtFsZY1Lq/LbNQL2ue481c8wQLxF0fZYh+7DA5AA=",
+  "Source": "Pandemic_MIS.Services.OrganizationManagementAPI",
+  "BasePath": "_content/Pandemic_MIS.Services.OrganizationManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pandemic_MIS.Services.PatientManagementAPI.props" />
+</Project>

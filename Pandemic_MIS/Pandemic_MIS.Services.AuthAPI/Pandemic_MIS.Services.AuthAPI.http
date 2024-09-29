@@ -1,0 +1,6 @@
+@Pandemic_MIS.Services.AuthAPI_HostAddress = http://localhost:5081
+
+GET {{Pandemic_MIS.Services.AuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
